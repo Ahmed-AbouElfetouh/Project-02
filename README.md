@@ -6,7 +6,7 @@
 
 
 #  HTML and CSS Template
-A Fully Responsive Template by Using Mediea Queries, At every Section of Template you will see a different kind of animation, you can scroll smoothly to any section pure CSS. 
+A Fully Responsive Template by Using Media Queries, At every Section of Template you will see a different kind of animation, you can scroll smoothly to any section pure CSS. 
 
 
 ## For Live Preview [Click Here](https://ahmed-abouelfetouh.github.io/Project-02/)
