@@ -1,12 +1,13 @@
-
 ## Hi, I'm Ahmed! 👋
 
 
 ## 🚀 I'm a front-end developer...
 
 
-#  HTML and CSS Template
-A Fully Responsive Template by Using Media Queries, At every Section of Template you will see a different kind of animation, you can scroll smoothly to any section pure CSS. 
+#  Special Design (2)
+I built this project using (HTML, CSS).
+
+A Fully Responsive Website by Using Media Queries, At every Section of Project you will find a different kind of animation, you can scroll smoothly to any section pure CSS and also you can find a mega menu.
 
 
 ## For Live Preview [Click Here](https://ahmed-abouelfetouh.github.io/Project-02/)
