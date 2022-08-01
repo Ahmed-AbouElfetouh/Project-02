@@ -188,6 +188,12 @@ header .links > ul > li > a {
     font-weight: bold;
   }
 }
+@media (min-width: 321px) and (max-width: 425px) {
+  header .links > ul > li > a {
+    font-size: 13px;
+    font-weight: bold;
+  }
+}
 @media (max-width: 767px) {
   header .links > ul > li > a {
     height: 40px;
